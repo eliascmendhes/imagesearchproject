@@ -1,0 +1,19 @@
+
+    node_modules/
+    .cache/
+    .tmp/
+    coverage/
+    logs/
+    dist/
+    build/
+
+
+
+    *.log
+    *.tmp
+    *.swp
+    *.DS_Store
+    package-lock.json
+    tsconfig.json
+    jsconfig.json
+    *.vscode/*
